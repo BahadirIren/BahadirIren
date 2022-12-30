@@ -44,9 +44,4 @@
 </a>
 </div>
 
-<br/>  
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BahadirIren&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="center" /></div>  
-
-<br/>  
+<br/>

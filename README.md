@@ -2,14 +2,14 @@
   
 
 ### <div align="center">Software Engineer - Mobile Application Developer</div>  
-  
 
-- 🏫 I'm senior undergraduate **Computer Engineering** student at **Doğuş University**  
-  
 
-- 🧑‍💻 I’m working as a part-time **Mobile Application Developer**  
-  
+- 🧑‍💻 **Computer Engineer** | **Mobile Application Developer** | **Flutter Developer**  
 
+
+- 🎓 I graduated from **Computer Engineering** at **Doğuş University**  
+
+  
 - 💻 I use **Dart / Flutter** in my **Mobile Application Development**  
   
 

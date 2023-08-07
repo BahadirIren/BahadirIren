@@ -10,8 +10,8 @@
 - 💻 I use **Dart / Flutter** in my **Mobile Application Development**  
   
 
-- 🌱 I’m currently learning **Python**  
-  
+- 🌱 I’m currently learning **Python**
+
 
 <br/>  
 
